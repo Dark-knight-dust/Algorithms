@@ -1,0 +1,10 @@
+Add the following code snippets in the library
+
+1) Dijkstra Algorithm
+2) Bellman Ford Algorithm
+3) Segment Tree
+4) Binary Indexed Tree (BIT Tree)
+5) Articulation Point
+6) Networks
+7) Min-Flow
+8) Max-Flow
